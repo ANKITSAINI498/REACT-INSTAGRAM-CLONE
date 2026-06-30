@@ -1,9 +1,18 @@
-import data from './db/db.json'
+import { useEffect, useState } from 'react'
+import api from './api'
 
 function Posts() {
+  const [posts, setPosts] = useState([])
+
+  useEffect(() => {
+    api.get('/posts')
+      .then((response) => setPosts(response.data))
+      .catch((err) => console.log(err))
+  }, [])
+
   return (
     <section className="posts">
-      {data.posts.map((post) => (
+      {posts.map((post) => (
         <article className="post" key={post.id}>
           <header className="post-header">
             <div className="post-user">
@@ -28,7 +37,7 @@ function Posts() {
           </div>
 
           <div className="post-meta">
-            <strong>{post.likes.toLocaleString()} likes</strong>
+            <strong>{Number(post.likes).toLocaleString()} likes</strong>
             <p>
               <strong>{post.username}</strong> {post.caption}
             </p>

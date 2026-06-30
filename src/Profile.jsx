@@ -1,18 +1,21 @@
-import axios from "axios"
 import { useState, useEffect } from "react"
+import api from "./api";
 
 function Profile() {
 
     const [profile, setProfile] = useState(null);
+    const [message, setMessage] = useState('');
+    const [messageType, setMessageType] = useState('success');
+    const [isUpdating, setIsUpdating] = useState(false);
 
     useEffect(() => {
-        axios.get('http://localhost:3000/profile')
-            .then((data) => { setProfile(data.data); console.log() });
+        api.get('/profile')
+            .then((response) => setProfile(response.data))
+            .catch((err) => console.log(err));
     }, [])
 
     function HandleOnChange(e) {
-        console.log(e.target.name);
-        console.log(e.target.value);
+        setMessage('');
 
         setProfile(prev => ({
             ...prev,
@@ -21,9 +24,21 @@ function Profile() {
     }
 
     const HandleUpdate = async () => {
-        axios.put('http://localhost:3000/profile',profile)
-        .then(console.log("updated"))
-        .catch((err)=>console.log(err))
+        setIsUpdating(true);
+        setMessage('');
+
+        api.put('/profile', profile)
+            .then((response) => {
+                setProfile(response.data);
+                setMessageType('success');
+                setMessage('Profile updated successfully');
+            })
+            .catch((err) => {
+                console.log(err);
+                setMessageType('danger');
+                setMessage('Profile update failed');
+            })
+            .finally(() => setIsUpdating(false));
     }
 
     return (
@@ -49,7 +64,15 @@ function Profile() {
                         onChange={HandleOnChange}
                     />
 
-                    <button onClick={HandleUpdate} className="btn btn-primary my-4">Update</button>
+                    {message && (
+                        <div className={`alert alert-${messageType} my-4`} role="alert">
+                            {message}
+                        </div>
+                    )}
+
+                    <button onClick={HandleUpdate} className="btn btn-primary my-4" disabled={isUpdating}>
+                        {isUpdating ? 'Updating...' : 'Update'}
+                    </button>
 
                 </div>
 

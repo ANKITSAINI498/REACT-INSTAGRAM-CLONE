@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useState } from "react"
 import { useNavigate, useParams } from "react-router-dom";
-import data from "./db/db.json";
+import api from "./api";
 
 
 function ViewStory() {
@@ -8,38 +8,45 @@ function ViewStory() {
   const { id } = useParams();
   const navigate = useNavigate();
 
-  const[story , setStory] = useState(null);
-  const currentIndex = data.stories.findIndex((item) => item.id === Number(id));
+  const [story, setStory] = useState(null);
+  const [stories, setStories] = useState([]);
+  const currentIndex = stories.findIndex((item) => String(item.id) === String(id));
 
   const showPreviousStory = () => {
     if (currentIndex > 0) {
-      navigate(`/story/${data.stories[currentIndex - 1].id}`);
+      navigate(`/story/${stories[currentIndex - 1].id}`);
     }
   };
 
   const showNextStory = useCallback(() => {
-    if (currentIndex === data.stories.length - 1) {
+    if (!stories.length || currentIndex === -1) {
+      return;
+    }
+
+    if (currentIndex === stories.length - 1) {
       navigate("/");
     } else {
-      navigate(`/story/${data.stories[currentIndex + 1].id}`);
+      navigate(`/story/${stories[currentIndex + 1].id}`);
     }
-  }, [currentIndex, navigate]);
+  }, [currentIndex, navigate, stories]);
 
-  useEffect(()=>{
-  fetch(`http://localhost:3000/stories/${id}`)
-  .then((res)=>res.json())
-  .then((data)=>setStory(data))
-  .catch(err=>console.log(err))
+  useEffect(() => {
+    api.get('/stories')
+      .then((response) => setStories(response.data))
+      .catch((err) => console.log(err))
+  }, [])
 
-},[id]);
+  useEffect(() => {
+    setStory(stories.find((item) => String(item.id) === String(id)) || null)
+  }, [id, stories])
 
-useEffect(() => {
-  const timer = setTimeout(() => {
-    showNextStory();
-  }, 5000);
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      showNextStory();
+    }, 5000);
 
-  return () => clearTimeout(timer);
-}, [showNextStory]);
+    return () => clearTimeout(timer);
+  }, [showNextStory]);
 
   
     return (
@@ -50,7 +57,7 @@ useEffect(() => {
             <button className="story-click story-click-right" onClick={showNextStory} aria-label="Next story"></button>
 
             <div className="story-progress">
-              {data.stories.map((item, index) => (
+              {stories.map((item, index) => (
                 <span className={index <= currentIndex ? "active" : ""} key={item.id}></span>
               ))}
             </div>
