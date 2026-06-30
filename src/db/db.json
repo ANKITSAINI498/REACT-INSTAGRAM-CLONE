@@ -86,5 +86,37 @@
       "username": "vignesh",
       "profileImage": "https://i.pravatar.cc/150?img=8"
     }
-  ]
+  ],
+
+  
+  "profile": {
+    "id": 1,
+    "username": "prince_dileeb",
+    "name": "Prince Lee",
+    "bio": "React + Laravel Developer 🚀",
+    "profileImage": "https://i.pravatar.cc/300?img=1",
+    "posts": 24,
+    "followers": 1250,
+    "following": 180,
+    "website": "https://github.com/princelee",
+    "highlights": [
+      {
+        "id": 1,
+        "title": "Travel",
+        "image": "https://picsum.photos/100?random=11"
+      },
+      {
+        "id": 2,
+        "title": "Work",
+        "image": "https://picsum.photos/100?random=12"
+      },
+      {
+        "id": 3,
+        "title": "Friends",
+        "image": "https://picsum.photos/100?random=13"
+      }
+    ]
+  }
+
+
 }

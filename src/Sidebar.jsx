@@ -1,3 +1,5 @@
+import { useNavigate } from "react-router-dom"
+
 function Sidebar() {
   const menuItems = [
     ['bi-house-door-fill', 'Home'],
@@ -9,6 +11,8 @@ function Sidebar() {
     ['bi-plus-lg', 'Create'],
     ['bi-bar-chart-line', 'Dashboard'],
   ]
+
+  const navigate = useNavigate();
 
   return (
     <aside className="sidebar">
@@ -24,7 +28,7 @@ function Sidebar() {
               <span>{label}</span>
             </div>
           ))}
-          <div className="nav-item">
+          <div className="nav-item" onClick={()=>navigate('/Profile')}>
             <span className="profile-dot"></span>
             <span>Profile</span>
           </div>

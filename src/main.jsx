@@ -3,6 +3,7 @@ import { createRoot } from 'react-dom/client'
 import './index.css'
 import App from './App.jsx'
 import ViewStory from './ViewStory.jsx'
+import Profile from './Profile.jsx'
 
 const router = createBrowserRouter (
   [
@@ -13,6 +14,10 @@ const router = createBrowserRouter (
   {
     path:'/story/:id',
     element:<ViewStory/>
+  },
+  {
+    path:'/profile',
+    element:<Profile/>
   }
 ]
 )
