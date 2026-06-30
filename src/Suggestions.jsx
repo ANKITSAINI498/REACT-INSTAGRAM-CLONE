@@ -1,13 +1,26 @@
+import axios from 'axios'
+import { useEffect, useState } from 'react'
 import data from './db/db.json'
 
 function Suggestions() {
+  const [profile, setProfile] = useState(null)
+
+  useEffect(() => {
+    axios.get('http://localhost:3000/profile')
+      .then((response) => setProfile(response.data))
+      .catch((err) => console.log(err))
+  }, [])
+
   return (
     <div className="suggestions">
       <div className="current-user">
-        <img src={data.stories[0].image} alt="prince_dileeb" />
+        <img
+          src={profile?.profileImage || data.stories[0].image}
+          alt={profile?.username || data.stories[0].username}
+        />
         <div>
-          <strong>prince_dileeb</strong>
-          <span>dileeb</span>
+          <strong>{profile?.username || data.stories[0].username}</strong>
+          <span>{profile?.name || 'dileeb'}</span>
         </div>
         <button>Switch</button>
       </div>

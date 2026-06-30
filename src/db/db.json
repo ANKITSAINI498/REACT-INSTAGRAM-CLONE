@@ -1,30 +1,29 @@
 {
   "stories": [
     {
-      "id": 1,
+      "id": "1",
       "username": "prince_dileeb",
       "image": "https://i.pravatar.cc/150?img=1"
     },
     {
-      "id": 2,
+      "id": "2",
       "username": "lee",
       "image": "https://i.pravatar.cc/150?img=2"
     },
     {
-      "id": 3,
+      "id": "3",
       "username": "philip",
       "image": "https://i.pravatar.cc/150?img=3"
     },
     {
-      "id": 4,
+      "id": "4",
       "username": "vasanth",
       "image": "https://i.pravatar.cc/150?img=4"
     }
   ],
-
   "posts": [
     {
-      "id": 1,
+      "id": "1",
       "username": "prince_dileeb",
       "profileImage": "https://i.pravatar.cc/150?img=1",
       "postImage": "https://picsum.photos/id/1011/600/600",
@@ -34,7 +33,7 @@
       "time": "2h"
     },
     {
-      "id": 2,
+      "id": "2",
       "username": "lee",
       "profileImage": "https://i.pravatar.cc/150?img=2",
       "postImage": "https://picsum.photos/id/1025/600/600",
@@ -44,7 +43,7 @@
       "time": "5h"
     },
     {
-      "id": 3,
+      "id": "3",
       "username": "philip",
       "profileImage": "https://i.pravatar.cc/150?img=3",
       "postImage": "https://picsum.photos/id/1035/600/600",
@@ -54,7 +53,7 @@
       "time": "8h"
     },
     {
-      "id": 4,
+      "id": "4",
       "username": "vasanth",
       "profileImage": "https://i.pravatar.cc/150?img=4",
       "postImage": "https://picsum.photos/id/1040/600/600",
@@ -64,35 +63,32 @@
       "time": "12h"
     }
   ],
-
   "suggestions": [
     {
-      "id": 1,
+      "id": "1",
       "username": "kumar",
       "profileImage": "https://i.pravatar.cc/150?img=5"
     },
     {
-      "id": 2,
+      "id": "2",
       "username": "guna",
       "profileImage": "https://i.pravatar.cc/150?img=6"
     },
     {
-      "id": 3,
+      "id": "3",
       "username": "hari",
       "profileImage": "https://i.pravatar.cc/150?img=7"
     },
     {
-      "id": 4,
+      "id": "4",
       "username": "vignesh",
       "profileImage": "https://i.pravatar.cc/150?img=8"
     }
   ],
-
-  
   "profile": {
     "id": 1,
-    "username": "prince_dileeb",
-    "name": "Prince Lee",
+    "username": "Prince_Dileeban",
+    "name": "Dileeban",
     "bio": "React + Laravel Developer 🚀",
     "profileImage": "https://i.pravatar.cc/300?img=1",
     "posts": 24,
@@ -116,7 +112,6 @@
         "image": "https://picsum.photos/100?random=13"
       }
     ]
-  }
-
-
+  },
+  "$schema": "./node_modules/json-server/schema.json"
 }
