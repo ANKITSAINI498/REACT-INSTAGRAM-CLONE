@@ -1,6 +1,7 @@
 {
   "stories": [
     {
+<<<<<<< HEAD
       "id": 1,
       "username": "aditya_gupta",
       "image": "https://randomuser.me/api/portraits/men/1.jpg"
@@ -599,10 +600,31 @@
       "id": 120,
       "username": "kavya_patel",
       "image": "https://randomuser.me/api/portraits/women/20.jpg"
+=======
+      "id": "1",
+      "username": "prince_dileeb",
+      "image": "https://i.pravatar.cc/150?img=1"
+    },
+    {
+      "id": "2",
+      "username": "lee",
+      "image": "https://i.pravatar.cc/150?img=2"
+    },
+    {
+      "id": "3",
+      "username": "philip",
+      "image": "https://i.pravatar.cc/150?img=3"
+    },
+    {
+      "id": "4",
+      "username": "vasanth",
+      "image": "https://i.pravatar.cc/150?img=4"
+>>>>>>> cf42fbd2eecb468519ee58c37919b41db8251455
     }
   ],
   "posts": [
     {
+<<<<<<< HEAD
       "id": 1,
       "username": "aditya_gupta",
       "name": "Aditya Gupta",
@@ -1921,10 +1943,51 @@
       "likes": 22483,
       "comments": 1032,
       "time": "6h"
+=======
+      "id": "1",
+      "username": "prince_dileeb",
+      "profileImage": "https://i.pravatar.cc/150?img=1",
+      "postImage": "https://picsum.photos/id/1011/600/600",
+      "caption": "Learning React every day 🚀",
+      "likes": 1523,
+      "comments": 48,
+      "time": "2h"
+    },
+    {
+      "id": "2",
+      "username": "lee",
+      "profileImage": "https://i.pravatar.cc/150?img=2",
+      "postImage": "https://picsum.photos/id/1025/600/600",
+      "caption": "Weekend vibes 😎",
+      "likes": 986,
+      "comments": 31,
+      "time": "5h"
+    },
+    {
+      "id": "3",
+      "username": "philip",
+      "profileImage": "https://i.pravatar.cc/150?img=3",
+      "postImage": "https://picsum.photos/id/1035/600/600",
+      "caption": "Nature is beautiful 🌴",
+      "likes": 2435,
+      "comments": 96,
+      "time": "8h"
+    },
+    {
+      "id": "4",
+      "username": "vasanth",
+      "profileImage": "https://i.pravatar.cc/150?img=4",
+      "postImage": "https://picsum.photos/id/1040/600/600",
+      "caption": "Coffee + Code ☕💻",
+      "likes": 1250,
+      "comments": 22,
+      "time": "12h"
+>>>>>>> cf42fbd2eecb468519ee58c37919b41db8251455
     }
   ],
   "suggestions": [
     {
+<<<<<<< HEAD
       "id": 1,
       "username": "aditya_gupta_official",
       "profileImage": "https://randomuser.me/api/portraits/men/1.jpg"
@@ -2523,6 +2586,55 @@
       "id": 120,
       "username": "kavya_patel_official",
       "profileImage": "https://randomuser.me/api/portraits/women/20.jpg"
+=======
+      "id": "1",
+      "username": "kumar",
+      "profileImage": "https://i.pravatar.cc/150?img=5"
+    },
+    {
+      "id": "2",
+      "username": "guna",
+      "profileImage": "https://i.pravatar.cc/150?img=6"
+    },
+    {
+      "id": "3",
+      "username": "hari",
+      "profileImage": "https://i.pravatar.cc/150?img=7"
+    },
+    {
+      "id": "4",
+      "username": "vignesh",
+      "profileImage": "https://i.pravatar.cc/150?img=4"
+>>>>>>> cf42fbd2eecb468519ee58c37919b41db8251455
     }
-  ]
+  ],
+  "profile": {
+    "id": 1,
+    "username": "Prince_Dileeban",
+    "name": "Dileeban",
+    "bio": "React + Laravel Developer 🚀",
+    "profileImage": "https://i.pravatar.cc/300?img=1",
+    "posts": 24,
+    "followers": 1250,
+    "following": 180,
+    "website": "https://github.com/princelee",
+    "highlights": [
+      {
+        "id": 1,
+        "title": "Travel",
+        "image": "https://picsum.photos/100?random=11"
+      },
+      {
+        "id": 2,
+        "title": "Work",
+        "image": "https://picsum.photos/100?random=12"
+      },
+      {
+        "id": 3,
+        "title": "Friends",
+        "image": "https://picsum.photos/100?random=13"
+      }
+    ]
+  },
+  "$schema": "./node_modules/json-server/schema.json"
 }
