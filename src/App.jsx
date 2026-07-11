@@ -1,21 +1,12 @@
-import Sidebar from './Sidebar'
-import Feed from './Feed'
-import Suggestions from './Suggestions'
+import "./App.css";
 
-function App() {
-  return (
-    <>
-      <Sidebar />
-      <div className="app-shell">
-        <main className="feed-column">
-          <Feed />
-        </main>
-        <aside className="suggestions-column">
-          <Suggestions />
-        </aside>
-      </div>
-    </>
-  )
+import Home from "./pages/Home.jsx";
+
+
+function App(){
+
+return <Home/>;
+
 }
 
-export default App
+export default App;

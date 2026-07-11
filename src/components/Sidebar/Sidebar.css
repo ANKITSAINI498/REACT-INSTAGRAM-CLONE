@@ -1,0 +1,262 @@
+/* ===========================
+   SIDEBAR
+=========================== */
+
+.sidebar{
+
+position:sticky;
+
+top:60px;
+
+width:245px;
+
+height:calc(100vh - 60px);
+
+padding:20px 14px;
+
+background:#fff;
+
+border-right:1px solid #dbdbdb;
+
+display:flex;
+
+flex-direction:column;
+
+justify-content:space-between;
+
+}
+
+/* ===========================
+   LOGO
+=========================== */
+
+.sidebar-logo{
+
+font-size:34px;
+
+font-family:cursive;
+
+font-weight:600;
+
+padding:20px 12px 40px;
+
+cursor:pointer;
+
+user-select:none;
+
+}
+
+/* ===========================
+   MENU
+=========================== */
+
+.sidebar-menu ul{
+
+list-style:none;
+
+padding:0;
+
+margin:0;
+
+}
+
+.sidebar-menu li{
+
+height:54px;
+
+display:flex;
+
+align-items:center;
+
+gap:18px;
+
+padding:0 14px;
+
+border-radius:12px;
+
+cursor:pointer;
+
+transition:.25s;
+
+font-size:16px;
+
+font-weight:500;
+
+margin-bottom:4px;
+
+}
+
+.sidebar-menu li:hover{
+
+background:#f5f5f5;
+
+}
+
+.sidebar-menu li svg{
+
+font-size:27px;
+
+}
+
+.active{
+
+font-weight:700;
+
+background:#fafafa;
+
+}
+
+.active svg{
+
+fill:black;
+
+}
+
+/* ===========================
+   PROFILE
+=========================== */
+
+.sidebar-profile{
+
+width:28px;
+
+height:28px;
+
+border-radius:50%;
+
+object-fit:cover;
+
+}
+
+/* ===========================
+   BOTTOM
+=========================== */
+
+.sidebar-bottom{
+
+padding-top:20px;
+
+border-top:1px solid #efefef;
+
+}
+
+.bottom-item{
+
+height:52px;
+
+display:flex;
+
+align-items:center;
+
+gap:18px;
+
+padding:0 14px;
+
+cursor:pointer;
+
+border-radius:12px;
+
+transition:.25s;
+
+font-size:16px;
+
+font-weight:500;
+
+}
+
+.bottom-item:hover{
+
+background:#f5f5f5;
+
+}
+
+.bottom-item img{
+
+width:24px;
+
+height:24px;
+
+object-fit:contain;
+
+}
+
+.bottom-item svg{
+
+font-size:25px;
+
+}
+
+/* ===========================
+   LARGE TABLET
+=========================== */
+
+@media(max-width:1264px){
+
+.sidebar{
+
+width:78px;
+
+padding:20px 10px;
+
+}
+
+.sidebar-logo{
+
+font-size:26px;
+
+text-align:center;
+
+padding:20px 0 40px;
+
+}
+
+.sidebar-logo::after{
+
+content:"📷";
+
+}
+
+.sidebar-logo{
+
+color:transparent;
+
+}
+
+.sidebar-menu span,
+
+.bottom-item span{
+
+display:none;
+
+}
+
+.sidebar-menu li{
+
+justify-content:center;
+
+padding:0;
+
+}
+
+.bottom-item{
+
+justify-content:center;
+
+padding:0;
+
+}
+
+}
+
+/* ===========================
+   MOBILE
+=========================== */
+
+@media(max-width:768px){
+
+.sidebar{
+
+display:none;
+
+}
+}

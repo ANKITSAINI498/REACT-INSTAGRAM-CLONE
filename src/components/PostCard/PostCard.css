@@ -1,0 +1,500 @@
+/* ===========================
+   POSTS CONTAINER
+=========================== */
+
+.posts{
+width:100%;
+display:flex;
+flex-direction:column;
+gap:24px;
+}
+
+
+/* ===========================
+   CARD
+=========================== */
+
+.post-card{
+
+width:100%;
+
+background:#fff;
+
+border:1px solid #dbdbdb;
+
+border-radius:10px;
+
+overflow:hidden;
+
+box-shadow:0 1px 3px rgba(0,0,0,.05);
+
+transition:.25s;
+
+}
+
+.post-card:hover{
+
+box-shadow:0 8px 25px rgba(0,0,0,.08);
+
+}
+
+
+/* ===========================
+   HEADER
+=========================== */
+
+.post-header{
+
+display:flex;
+
+align-items:center;
+
+justify-content:space-between;
+
+padding:12px 16px;
+
+}
+
+.post-user{
+
+display:flex;
+
+align-items:center;
+
+gap:12px;
+
+}
+
+.post-profile{
+
+width:42px;
+
+height:42px;
+
+border-radius:50%;
+
+object-fit:cover;
+
+border:2px solid #fff;
+
+box-shadow:0 0 0 2px #f56040;
+
+}
+
+.post-info{
+
+display:flex;
+
+flex-direction:column;
+
+}
+
+.post-info h6{
+
+display:flex;
+
+align-items:center;
+
+gap:5px;
+
+margin:0;
+
+font-size:14px;
+
+font-weight:600;
+
+}
+
+.location{
+
+margin:2px 0 0;
+
+font-size:12px;
+
+color:#8e8e8e;
+
+}
+
+.more-icon{
+
+font-size:22px;
+
+cursor:pointer;
+
+}
+
+
+/* ===========================
+ VERIFIED
+=========================== */
+
+.verified{
+
+color:#0095f6;
+
+font-size:16px;
+
+}
+
+
+/* ===========================
+ IMAGE
+=========================== */
+
+.post-image{
+
+position:relative;
+
+width:100%;
+
+background:#000;
+
+overflow:hidden;
+
+}
+
+.post-image img{
+
+width:100%;
+
+display:block;
+
+aspect-ratio:1/1;
+
+object-fit:cover;
+
+}
+
+
+/* ===========================
+ HEART
+=========================== */
+
+.heart-animation{
+
+position:absolute;
+
+top:50%;
+
+left:50%;
+
+transform:translate(-50%,-50%);
+
+font-size:90px;
+
+animation:heart .7s ease;
+
+pointer-events:none;
+
+}
+
+@keyframes heart{
+
+0%{
+
+opacity:0;
+
+transform:translate(-50%,-50%) scale(.3);
+
+}
+
+30%{
+
+opacity:1;
+
+transform:translate(-50%,-50%) scale(1.2);
+
+}
+
+100%{
+
+opacity:0;
+
+transform:translate(-50%,-50%) scale(1);
+
+}
+
+}
+
+
+/* ===========================
+ ACTIONS
+=========================== */
+
+.post-actions{
+
+display:flex;
+
+justify-content:space-between;
+
+align-items:center;
+
+padding:14px 16px;
+
+}
+
+.left-actions{
+
+display:flex;
+
+align-items:center;
+
+gap:18px;
+
+}
+
+.post-actions svg{
+
+font-size:25px;
+
+cursor:pointer;
+
+transition:.25s;
+
+}
+
+.post-actions svg:hover{
+
+transform:scale(1.12);
+
+}
+
+.liked{
+
+color:#ed4956;
+
+animation:pop .25s ease;
+
+}
+
+.saved{
+
+fill:#000;
+
+animation:pop .25s ease;
+
+}
+
+@keyframes pop{
+
+0%{
+
+transform:scale(.5);
+
+}
+
+100%{
+
+transform:scale(1);
+
+}
+
+}
+
+
+/* ===========================
+ CONTENT
+=========================== */
+
+.post-content{
+
+padding:0 16px 16px;
+
+}
+
+.likes{
+
+font-size:15px;
+
+font-weight:600;
+
+margin-bottom:8px;
+
+}
+
+.caption{
+
+font-size:14px;
+
+line-height:1.6;
+
+margin-bottom:6px;
+
+word-break:break-word;
+
+}
+
+.comments{
+
+font-size:14px;
+
+color:#8e8e8e;
+
+cursor:pointer;
+
+margin-bottom:8px;
+
+}
+
+.time{
+
+font-size:11px;
+
+text-transform:uppercase;
+
+color:#999;
+
+margin-bottom:14px;
+
+}
+
+
+/* ===========================
+ COMMENT
+=========================== */
+
+.comment-box{
+
+display:flex;
+
+align-items:center;
+
+border-top:1px solid #efefef;
+
+padding-top:12px;
+
+}
+
+.comment-box input{
+
+flex:1;
+
+border:none;
+
+outline:none;
+
+font-size:14px;
+
+background:transparent;
+
+}
+
+.comment-box button{
+
+border:none;
+
+background:none;
+
+color:#0095f6;
+
+font-size:14px;
+
+font-weight:600;
+
+cursor:pointer;
+
+}
+
+.comment-box button:hover{
+
+opacity:.7;
+
+}
+
+
+/* ===========================
+ MOBILE
+=========================== */
+
+@media(max-width:768px){
+
+.post-card{
+
+border-radius:0;
+
+border-left:none;
+
+border-right:none;
+
+box-shadow:none;
+
+}
+
+.post-header{
+
+padding:10px 12px;
+
+}
+
+.post-actions{
+
+padding:12px;
+
+}
+
+.post-content{
+
+padding:0 12px 14px;
+
+}
+
+.post-profile{
+
+width:38px;
+
+height:38px;
+
+}
+
+.post-actions svg{
+
+font-size:23px;
+
+}
+
+}
+
+
+/* ===========================
+ SMALL MOBILE
+=========================== */
+
+@media(max-width:480px){
+
+.post-info h6{
+
+font-size:13px;
+
+}
+
+.location{
+
+font-size:11px;
+
+}
+
+.likes{
+
+font-size:14px;
+
+}
+
+.caption{
+
+font-size:13px;
+
+}
+
+.comments{
+
+font-size:13px;
+
+}
+
+.comment-box input{
+
+font-size:13px;
+
+}
+
+}

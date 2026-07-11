@@ -1,24 +1,18 @@
-import { createBrowserRouter ,RouterProvider } from 'react-router-dom'
-import { createRoot } from 'react-dom/client'
-import './index.css'
-import App from './App.jsx'
-import ViewStory from './ViewStory.jsx'
+import React from "react";
+import ReactDOM from "react-dom/client";
 
-const router = createBrowserRouter (
-  [
-  {
-    path:'/',
-    element:<App />
-  },
-  {
-    path:'/story/:id',
-    element:<ViewStory/>
-  }
-]
-)
+import App from "./App";
 
-createRoot(document.getElementById('root')).render(
-  
-    <RouterProvider router={router}/>
 
-)
+
+import "./index.css";
+
+ReactDOM.createRoot(document.getElementById("root")).render(
+
+<React.StrictMode>
+
+<App/>
+
+</React.StrictMode>
+
+);

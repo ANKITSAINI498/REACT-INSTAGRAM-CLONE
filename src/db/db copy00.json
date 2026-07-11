@@ -1,0 +1,90 @@
+{
+  "stories": [
+    {
+      "id": 1,
+      "username": "prince_dileeb",
+      "image": "https://i.pravatar.cc/150?img=1"
+    },
+    {
+      "id": 2,
+      "username": "lee",
+      "image": "https://i.pravatar.cc/150?img=2"
+    },
+    {
+      "id": 3,
+      "username": "philip",
+      "image": "https://i.pravatar.cc/150?img=3"
+    },
+    {
+      "id": 4,
+      "username": "vasanth",
+      "image": "https://i.pravatar.cc/150?img=4"
+    }
+  ],
+
+  "posts": [
+    {
+      "id": 1,
+      "username": "prince_dileeb",
+      "profileImage": "https://i.pravatar.cc/150?img=1",
+      "postImage": "https://picsum.photos/id/1011/600/600",
+      "caption": "Learning React every day 🚀",
+      "likes": 1523,
+      "comments": 48,
+      "time": "2h"
+    },
+    {
+      "id": 2,
+      "username": "lee",
+      "profileImage": "https://i.pravatar.cc/150?img=2",
+      "postImage": "https://picsum.photos/id/1025/600/600",
+      "caption": "Weekend vibes 😎",
+      "likes": 986,
+      "comments": 31,
+      "time": "5h"
+    },
+    {
+      "id": 3,
+      "username": "philip",
+      "profileImage": "https://i.pravatar.cc/150?img=3",
+      "postImage": "https://picsum.photos/id/1035/600/600",
+      "caption": "Nature is beautiful 🌴",
+      "likes": 2435,
+      "comments": 96,
+      "time": "8h"
+    },
+    {
+      "id": 4,
+      "username": "vasanth",
+      "profileImage": "https://i.pravatar.cc/150?img=4",
+      "postImage": "https://picsum.photos/id/1040/600/600",
+      "caption": "Coffee + Code ☕💻",
+      "likes": 1250,
+      "comments": 22,
+      "time": "12h"
+    }
+  ],
+
+  "suggestions": [
+    {
+      "id": 1,
+      "username": "kumar",
+      "profileImage": "https://i.pravatar.cc/150?img=5"
+    },
+    {
+      "id": 2,
+      "username": "guna",
+      "profileImage": "https://i.pravatar.cc/150?img=6"
+    },
+    {
+      "id": 3,
+      "username": "hari",
+      "profileImage": "https://i.pravatar.cc/150?img=7"
+    },
+    {
+      "id": 4,
+      "username": "vignesh",
+      "profileImage": "https://i.pravatar.cc/150?img=8"
+    }
+  ]
+}

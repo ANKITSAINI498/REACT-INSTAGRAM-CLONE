@@ -1,0 +1,1608 @@
+[
+  {
+    "id": 1,
+    "username": "rohit_sharma07",
+    "verified": true,
+    "location": "Jaipur, Rajasthan",
+    "profileImage": "https://randomuser.me/api/portraits/men/11.jpg",
+    "images": [
+      "https://picsum.photos/seed/india101/600/600",
+      "https://picsum.photos/seed/india102/600/600",
+      "https://picsum.photos/seed/india103/600/600"
+    ],
+    "caption": "Pink City vibes ❤️",
+    "likes": 18234,
+    "comments": 324,
+    "time": "2h"
+  },
+  {
+    "id": 2,
+    "username": "priya_verma",
+    "verified": false,
+    "location": "Udaipur, Rajasthan",
+    "profileImage": "https://randomuser.me/api/portraits/women/12.jpg",
+    "images": [
+      "https://picsum.photos/seed/india104/600/600",
+      "https://picsum.photos/seed/india105/600/600",
+      "https://picsum.photos/seed/india106/600/600"
+    ],
+    "caption": "Lake City memories ✨",
+    "likes": 9432,
+    "comments": 188,
+    "time": "5h"
+  },
+  {
+    "id": 3,
+    "username": "aman_saini",
+    "verified": true,
+    "location": "Delhi, India",
+    "profileImage": "https://randomuser.me/api/portraits/men/13.jpg",
+    "images": [
+      "https://picsum.photos/seed/india107/600/600",
+      "https://picsum.photos/seed/india108/600/600",
+      "https://picsum.photos/seed/india109/600/600"
+    ],
+    "caption": "Coffee & Coding 💻☕",
+    "likes": 23456,
+    "comments": 532,
+    "time": "1h"
+  },
+  {
+    "id": 4,
+    "username": "sakshi_sharma",
+    "verified": false,
+    "location": "Mumbai, Maharashtra",
+    "profileImage": "https://randomuser.me/api/portraits/women/14.jpg",
+    "images": [
+      "https://picsum.photos/seed/india110/600/600",
+      "https://picsum.photos/seed/india111/600/600",
+      "https://picsum.photos/seed/india112/600/600"
+    ],
+    "caption": "Marine Drive evenings 🌊",
+    "likes": 15489,
+    "comments": 267,
+    "time": "8h"
+  },
+  {
+    "id": 5,
+    "username": "rahul_meena",
+    "verified": true,
+    "location": "Ajmer, Rajasthan",
+    "profileImage": "https://randomuser.me/api/portraits/men/15.jpg",
+    "images": [
+      "https://picsum.photos/seed/india113/600/600",
+      "https://picsum.photos/seed/india114/600/600",
+      "https://picsum.photos/seed/india115/600/600"
+    ],
+    "caption": "Weekend ride 🏍️",
+    "likes": 20112,
+    "comments": 412,
+    "time": "3h"
+  },
+  {
+    "id": 6,
+    "username": "khushi_gupta",
+    "verified": false,
+    "location": "Lucknow, Uttar Pradesh",
+    "profileImage": "https://randomuser.me/api/portraits/women/16.jpg",
+    "images": [
+      "https://picsum.photos/seed/india116/600/600",
+      "https://picsum.photos/seed/india117/600/600",
+      "https://picsum.photos/seed/india118/600/600"
+    ],
+    "caption": "Smile more 😊",
+    "likes": 11876,
+    "comments": 201,
+    "time": "4h"
+  },
+  {
+    "id": 7,
+    "username": "deepak_jat",
+    "verified": true,
+    "location": "Jodhpur, Rajasthan",
+    "profileImage": "https://randomuser.me/api/portraits/men/17.jpg",
+    "images": [
+      "https://picsum.photos/seed/india119/600/600",
+      "https://picsum.photos/seed/india120/600/600",
+      "https://picsum.photos/seed/india121/600/600"
+    ],
+    "caption": "Blue City 💙",
+    "likes": 26781,
+    "comments": 643,
+    "time": "6h"
+  },
+  {
+    "id": 8,
+    "username": "riya_choudhary",
+    "verified": false,
+    "location": "Kota, Rajasthan",
+    "profileImage": "https://randomuser.me/api/portraits/women/18.jpg",
+    "images": [
+      "https://picsum.photos/seed/india122/600/600",
+      "https://picsum.photos/seed/india123/600/600",
+      "https://picsum.photos/seed/india124/600/600"
+    ],
+    "caption": "Study break 📚",
+    "likes": 8520,
+    "comments": 167,
+    "time": "9h"
+  },
+  {
+    "id": 9,
+    "username": "vikas_yadav",
+    "verified": true,
+    "location": "Indore, Madhya Pradesh",
+    "profileImage": "https://randomuser.me/api/portraits/men/19.jpg",
+    "images": [
+      "https://picsum.photos/seed/india125/600/600",
+      "https://picsum.photos/seed/india126/600/600",
+      "https://picsum.photos/seed/india127/600/600"
+    ],
+    "caption": "Street food lover 😋",
+    "likes": 17456,
+    "comments": 345,
+    "time": "7h"
+  },
+  {
+    "id": 10,
+    "username": "pooja_singh",
+    "verified": false,
+    "location": "Bhopal, Madhya Pradesh",
+    "profileImage": "https://randomuser.me/api/portraits/women/20.jpg",
+    "images": [
+      "https://picsum.photos/seed/india128/600/600",
+      "https://picsum.photos/seed/india129/600/600",
+      "https://picsum.photos/seed/india130/600/600"
+    ],
+    "caption": "Nature heals 🌿",
+    "likes": 10984,
+    "comments": 223,
+    "time": "11h"
+  },
+  {
+    "id": 11,
+    "username": "nitin_patel",
+    "verified": true,
+    "location": "Ahmedabad, Gujarat",
+    "profileImage": "https://randomuser.me/api/portraits/men/21.jpg",
+    "images": [
+      "https://picsum.photos/seed/india131/600/600",
+      "https://picsum.photos/seed/india132/600/600",
+      "https://picsum.photos/seed/india133/600/600"
+    ],
+    "caption": "Business mindset 📈",
+    "likes": 22054,
+    "comments": 467,
+    "time": "2h"
+  },
+  {
+    "id": 12,
+    "username": "muskan_khan",
+    "verified": false,
+    "location": "Hyderabad, Telangana",
+    "profileImage": "https://randomuser.me/api/portraits/women/22.jpg",
+    "images": [
+      "https://picsum.photos/seed/india134/600/600",
+      "https://picsum.photos/seed/india135/600/600",
+      "https://picsum.photos/seed/india136/600/600"
+    ],
+    "caption": "Hyderabad diaries ❤️",
+    "likes": 14390,
+    "comments": 286,
+    "time": "12h"
+  },
+  {
+    "id": 13,
+    "username": "karan_joshi",
+    "verified": true,
+    "location": "Pune, Maharashtra",
+    "profileImage": "https://randomuser.me/api/portraits/men/23.jpg",
+    "images": [
+      "https://picsum.photos/seed/india137/600/600",
+      "https://picsum.photos/seed/india138/600/600",
+      "https://picsum.photos/seed/india139/600/600"
+    ],
+    "caption": "Gym mode 💪",
+    "likes": 31256,
+    "comments": 701,
+    "time": "1h"
+  },
+  {
+    "id": 14,
+    "username": "neha_meena",
+    "verified": false,
+    "location": "Chennai, Tamil Nadu",
+    "profileImage": "https://randomuser.me/api/portraits/women/24.jpg",
+    "images": [
+      "https://picsum.photos/seed/india140/600/600",
+      "https://picsum.photos/seed/india141/600/600",
+      "https://picsum.photos/seed/india142/600/600"
+    ],
+    "caption": "Beach vibes 🌴",
+    "likes": 13876,
+    "comments": 231,
+    "time": "10h"
+  },
+  {
+    "id": 15,
+    "username": "aditya_gupta",
+    "verified": true,
+    "location": "Surat, Gujarat",
+    "profileImage": "https://randomuser.me/api/portraits/men/25.jpg",
+    "images": [
+      "https://picsum.photos/seed/india143/600/600",
+      "https://picsum.photos/seed/india144/600/600",
+      "https://picsum.photos/seed/india145/600/600"
+    ],
+    "caption": "Dream big ✨",
+    "likes": 25103,
+    "comments": 524,
+    "time": "4h"
+  },
+  {
+    "id": 16,
+    "username": "riya_sharma",
+    "verified": false,
+    "location": "Kolkata, West Bengal",
+    "profileImage": "https://randomuser.me/api/portraits/women/26.jpg",
+    "images": [
+      "https://picsum.photos/seed/india146/600/600",
+      "https://picsum.photos/seed/india147/600/600",
+      "https://picsum.photos/seed/india148/600/600"
+    ],
+    "caption": "Good vibes only 🌸",
+    "likes": 12690,
+    "comments": 198,
+    "time": "6h"
+  },
+  {
+    "id": 17,
+    "username": "yash_choudhary",
+    "verified": true,
+    "location": "Chandigarh, India",
+    "profileImage": "https://randomuser.me/api/portraits/men/27.jpg",
+    "images": [
+      "https://picsum.photos/seed/india149/600/600",
+      "https://picsum.photos/seed/india150/600/600",
+      "https://picsum.photos/seed/india151/600/600"
+    ],
+    "caption": "Road trip 🚗",
+    "likes": 19760,
+    "comments": 411,
+    "time": "3h"
+  },
+  {
+    "id": 18,
+    "username": "sakshi_patel",
+    "verified": false,
+    "location": "Amritsar, Punjab",
+    "profileImage": "https://randomuser.me/api/portraits/women/28.jpg",
+    "images": [
+      "https://picsum.photos/seed/india152/600/600",
+      "https://picsum.photos/seed/india153/600/600",
+      "https://picsum.photos/seed/india154/600/600"
+    ],
+    "caption": "Golden Temple 🙏",
+    "likes": 15433,
+    "comments": 275,
+    "time": "5h"
+  },
+  {
+    "id": 19,
+    "username": "harsh_singh",
+    "verified": true,
+    "location": "Bengaluru, Karnataka",
+    "profileImage": "https://randomuser.me/api/portraits/men/29.jpg",
+    "images": [
+      "https://picsum.photos/seed/india155/600/600",
+      "https://picsum.photos/seed/india156/600/600",
+      "https://picsum.photos/seed/india157/600/600"
+    ],
+    "caption": "Startup life 🚀",
+    "likes": 29870,
+    "comments": 688,
+    "time": "2h"
+  },
+  {
+    "id": 20,
+    "username": "anjali_verma",
+    "verified": false,
+    "location": "Varanasi, Uttar Pradesh",
+    "profileImage": "https://randomuser.me/api/portraits/women/30.jpg",
+    "images": [
+      "https://picsum.photos/seed/india158/600/600",
+      "https://picsum.photos/seed/india159/600/600",
+      "https://picsum.photos/seed/india160/600/600"
+    ],
+    "caption": "Har Har Mahadev 🙏🕉️",
+    "likes": 16782,
+    "comments": 352,
+    "time": "9h"
+  },
+
+  {
+    "id": 21,
+    "username": "rahul_choudhary",
+    "verified": true,
+    "location": "Jaipur, Rajasthan",
+    "profileImage": "https://randomuser.me/api/portraits/men/31.jpg",
+    "images": [
+      "https://picsum.photos/seed/india161/600/600",
+      "https://picsum.photos/seed/india162/600/600",
+      "https://picsum.photos/seed/india163/600/600"
+    ],
+    "caption": "Evening ride with friends 🏍️❤️",
+    "likes": 24567,
+    "comments": 487,
+    "time": "3h"
+  },
+  {
+    "id": 22,
+    "username": "pooja_meena",
+    "verified": false,
+    "location": "Udaipur, Rajasthan",
+    "profileImage": "https://randomuser.me/api/portraits/women/32.jpg",
+    "images": [
+      "https://picsum.photos/seed/india164/600/600",
+      "https://picsum.photos/seed/india165/600/600",
+      "https://picsum.photos/seed/india166/600/600"
+    ],
+    "caption": "Peace begins with a smile 😊",
+    "likes": 13785,
+    "comments": 243,
+    "time": "6h"
+  },
+  {
+    "id": 23,
+    "username": "arjun_singh",
+    "verified": true,
+    "location": "Delhi, India",
+    "profileImage": "https://randomuser.me/api/portraits/men/33.jpg",
+    "images": [
+      "https://picsum.photos/seed/india167/600/600",
+      "https://picsum.photos/seed/india168/600/600",
+      "https://picsum.photos/seed/india169/600/600"
+    ],
+    "caption": "Never stop learning 💻",
+    "likes": 31245,
+    "comments": 701,
+    "time": "1h"
+  },
+  {
+    "id": 24,
+    "username": "kavya_patel",
+    "verified": false,
+    "location": "Ahmedabad, Gujarat",
+    "profileImage": "https://randomuser.me/api/portraits/women/34.jpg",
+    "images": [
+      "https://picsum.photos/seed/india170/600/600",
+      "https://picsum.photos/seed/india171/600/600",
+      "https://picsum.photos/seed/india172/600/600"
+    ],
+    "caption": "Traditional day 💛",
+    "likes": 11243,
+    "comments": 216,
+    "time": "8h"
+  },
+  {
+    "id": 25,
+    "username": "nitin_verma",
+    "verified": true,
+    "location": "Kota, Rajasthan",
+    "profileImage": "https://randomuser.me/api/portraits/men/35.jpg",
+    "images": [
+      "https://picsum.photos/seed/india173/600/600",
+      "https://picsum.photos/seed/india174/600/600",
+      "https://picsum.photos/seed/india175/600/600"
+    ],
+    "caption": "Focus on your goals 🎯",
+    "likes": 22876,
+    "comments": 456,
+    "time": "2h"
+  },
+  {
+    "id": 26,
+    "username": "sakshi_gupta",
+    "verified": false,
+    "location": "Mumbai, Maharashtra",
+    "profileImage": "https://randomuser.me/api/portraits/women/36.jpg",
+    "images": [
+      "https://picsum.photos/seed/india176/600/600",
+      "https://picsum.photos/seed/india177/600/600",
+      "https://picsum.photos/seed/india178/600/600"
+    ],
+    "caption": "Weekend coffee ☕",
+    "likes": 14987,
+    "comments": 281,
+    "time": "5h"
+  },
+  {
+    "id": 27,
+    "username": "deepak_kumar",
+    "verified": true,
+    "location": "Lucknow, Uttar Pradesh",
+    "profileImage": "https://randomuser.me/api/portraits/men/37.jpg",
+    "images": [
+      "https://picsum.photos/seed/india179/600/600",
+      "https://picsum.photos/seed/india180/600/600",
+      "https://picsum.photos/seed/india181/600/600"
+    ],
+    "caption": "Hard work pays off 💯",
+    "likes": 28645,
+    "comments": 623,
+    "time": "2h"
+  },
+  {
+    "id": 28,
+    "username": "riya_joshi",
+    "verified": false,
+    "location": "Pune, Maharashtra",
+    "profileImage": "https://randomuser.me/api/portraits/women/38.jpg",
+    "images": [
+      "https://picsum.photos/seed/india182/600/600",
+      "https://picsum.photos/seed/india183/600/600",
+      "https://picsum.photos/seed/india184/600/600"
+    ],
+    "caption": "Smile. Sparkle. Repeat ✨",
+    "likes": 12564,
+    "comments": 196,
+    "time": "7h"
+  },
+  {
+    "id": 29,
+    "username": "yash_meena",
+    "verified": true,
+    "location": "Jodhpur, Rajasthan",
+    "profileImage": "https://randomuser.me/api/portraits/men/39.jpg",
+    "images": [
+      "https://picsum.photos/seed/india185/600/600",
+      "https://picsum.photos/seed/india186/600/600",
+      "https://picsum.photos/seed/india187/600/600"
+    ],
+    "caption": "Blue City love 💙",
+    "likes": 19450,
+    "comments": 352,
+    "time": "9h"
+  },
+  {
+    "id": 30,
+    "username": "muskan_sharma",
+    "verified": false,
+    "location": "Chandigarh, India",
+    "profileImage": "https://randomuser.me/api/portraits/women/40.jpg",
+    "images": [
+      "https://picsum.photos/seed/india188/600/600",
+      "https://picsum.photos/seed/india189/600/600",
+      "https://picsum.photos/seed/india190/600/600"
+    ],
+    "caption": "Beautiful moments ❤️",
+    "likes": 10780,
+    "comments": 183,
+    "time": "4h"
+  },
+  {
+    "id": 31,
+    "username": "vikas_saini",
+    "verified": true,
+    "location": "Bengaluru, Karnataka",
+    "profileImage": "https://randomuser.me/api/portraits/men/41.jpg",
+    "images": [
+      "https://picsum.photos/seed/india191/600/600",
+      "https://picsum.photos/seed/india192/600/600",
+      "https://picsum.photos/seed/india193/600/600"
+    ],
+    "caption": "Developer life 🚀",
+    "likes": 34125,
+    "comments": 842,
+    "time": "1h"
+  },
+  {
+    "id": 32,
+    "username": "payal_verma",
+    "verified": false,
+    "location": "Hyderabad, Telangana",
+    "profileImage": "https://randomuser.me/api/portraits/women/42.jpg",
+    "images": [
+      "https://picsum.photos/seed/india194/600/600",
+      "https://picsum.photos/seed/india195/600/600",
+      "https://picsum.photos/seed/india196/600/600"
+    ],
+    "caption": "Hyderabad evenings 🌆",
+    "likes": 13220,
+    "comments": 237,
+    "time": "10h"
+  },
+  {
+    "id": 33,
+    "username": "aman_yadav",
+    "verified": true,
+    "location": "Indore, Madhya Pradesh",
+    "profileImage": "https://randomuser.me/api/portraits/men/43.jpg",
+    "images": [
+      "https://picsum.photos/seed/india197/600/600",
+      "https://picsum.photos/seed/india198/600/600",
+      "https://picsum.photos/seed/india199/600/600"
+    ],
+    "caption": "Fitness first 💪",
+    "likes": 25630,
+    "comments": 519,
+    "time": "3h"
+  },
+  {
+    "id": 34,
+    "username": "khushi_singh",
+    "verified": false,
+    "location": "Chennai, Tamil Nadu",
+    "profileImage": "https://randomuser.me/api/portraits/women/44.jpg",
+    "images": [
+      "https://picsum.photos/seed/india200/600/600",
+      "https://picsum.photos/seed/india201/600/600",
+      "https://picsum.photos/seed/india202/600/600"
+    ],
+    "caption": "Beach sunset 🌅",
+    "likes": 11980,
+    "comments": 204,
+    "time": "6h"
+  },
+  {
+    "id": 35,
+    "username": "raj_patel",
+    "verified": true,
+    "location": "Surat, Gujarat",
+    "profileImage": "https://randomuser.me/api/portraits/men/45.jpg",
+    "images": [
+      "https://picsum.photos/seed/india203/600/600",
+      "https://picsum.photos/seed/india204/600/600",
+      "https://picsum.photos/seed/india205/600/600"
+    ],
+    "caption": "Business vibes 📈",
+    "likes": 21470,
+    "comments": 448,
+    "time": "2h"
+  },
+  {
+    "id": 36,
+    "username": "neha_choudhary",
+    "verified": false,
+    "location": "Ajmer, Rajasthan",
+    "profileImage": "https://randomuser.me/api/portraits/women/46.jpg",
+    "images": [
+      "https://picsum.photos/seed/india206/600/600",
+      "https://picsum.photos/seed/india207/600/600",
+      "https://picsum.photos/seed/india208/600/600"
+    ],
+    "caption": "Family time ❤️",
+    "likes": 9540,
+    "comments": 175,
+    "time": "11h"
+  },
+  {
+    "id": 37,
+    "username": "harsh_jat",
+    "verified": true,
+    "location": "Varanasi, Uttar Pradesh",
+    "profileImage": "https://randomuser.me/api/portraits/men/47.jpg",
+    "images": [
+      "https://picsum.photos/seed/india209/600/600",
+      "https://picsum.photos/seed/india210/600/600",
+      "https://picsum.photos/seed/india211/600/600"
+    ],
+    "caption": "Har Har Mahadev 🙏",
+    "likes": 27456,
+    "comments": 590,
+    "time": "4h"
+  },
+  {
+    "id": 38,
+    "username": "aditi_kumar",
+    "verified": false,
+    "location": "Bhopal, Madhya Pradesh",
+    "profileImage": "https://randomuser.me/api/portraits/women/48.jpg",
+    "images": [
+      "https://picsum.photos/seed/india212/600/600",
+      "https://picsum.photos/seed/india213/600/600",
+      "https://picsum.photos/seed/india214/600/600"
+    ],
+    "caption": "Nature is my therapy 🌿",
+    "likes": 12346,
+    "comments": 218,
+    "time": "8h"
+  },
+  {
+    "id": 39,
+    "username": "mohit_gupta",
+    "verified": true,
+    "location": "Amritsar, Punjab",
+    "profileImage": "https://randomuser.me/api/portraits/men/49.jpg",
+    "images": [
+      "https://picsum.photos/seed/india215/600/600",
+      "https://picsum.photos/seed/india216/600/600",
+      "https://picsum.photos/seed/india217/600/600"
+    ],
+    "caption": "Travel makes life better ✈️",
+    "likes": 23654,
+    "comments": 472,
+    "time": "5h"
+  },
+  {
+    "id": 40,
+    "username": "anjali_patel",
+    "verified": false,
+    "location": "Kolkata, West Bengal",
+    "profileImage": "https://randomuser.me/api/portraits/women/50.jpg",
+    "images": [
+      "https://picsum.photos/seed/india218/600/600",
+      "https://picsum.photos/seed/india219/600/600",
+      "https://picsum.photos/seed/india220/600/600"
+    ],
+    "caption": "Good food, good mood 😋",
+    "likes": 14763,
+    "comments": 286,
+    "time": "2h"
+  },
+  
+  {
+    "id": 41,
+    "username": "ankit_saini",
+    "verified": true,
+    "location": "Jaipur, Rajasthan",
+    "profileImage": "https://randomuser.me/api/portraits/men/51.jpg",
+    "images": [
+      "https://picsum.photos/seed/india221/600/600",
+      "https://picsum.photos/seed/india222/600/600",
+      "https://picsum.photos/seed/india223/600/600"
+    ],
+    "caption": "जयपुर की शाम हमेशा खास होती है ❤️",
+    "likes": 28451,
+    "comments": 612,
+    "time": "1h"
+  },
+  {
+    "id": 42,
+    "username": "simran_kaur",
+    "verified": false,
+    "location": "Amritsar, Punjab",
+    "profileImage": "https://randomuser.me/api/portraits/women/52.jpg",
+    "images": [
+      "https://picsum.photos/seed/india224/600/600",
+      "https://picsum.photos/seed/india225/600/600",
+      "https://picsum.photos/seed/india226/600/600"
+    ],
+    "caption": "Golden moments ✨",
+    "likes": 14325,
+    "comments": 281,
+    "time": "3h"
+  },
+  {
+    "id": 43,
+    "username": "vivek_yadav",
+    "verified": true,
+    "location": "Lucknow, Uttar Pradesh",
+    "profileImage": "https://randomuser.me/api/portraits/men/53.jpg",
+    "images": [
+      "https://picsum.photos/seed/india227/600/600",
+      "https://picsum.photos/seed/india228/600/600",
+      "https://picsum.photos/seed/india229/600/600"
+    ],
+    "caption": "Morning workout 💪",
+    "likes": 22489,
+    "comments": 451,
+    "time": "5h"
+  },
+  {
+    "id": 44,
+    "username": "pooja_sharma",
+    "verified": false,
+    "location": "Delhi, India",
+    "profileImage": "https://randomuser.me/api/portraits/women/54.jpg",
+    "images": [
+      "https://picsum.photos/seed/india230/600/600",
+      "https://picsum.photos/seed/india231/600/600",
+      "https://picsum.photos/seed/india232/600/600"
+    ],
+    "caption": "Coffee + Books = Perfect Day ☕📚",
+    "likes": 11897,
+    "comments": 197,
+    "time": "8h"
+  },
+  {
+    "id": 45,
+    "username": "rajveer_jat",
+    "verified": true,
+    "location": "Jodhpur, Rajasthan",
+    "profileImage": "https://randomuser.me/api/portraits/men/55.jpg",
+    "images": [
+      "https://picsum.photos/seed/india233/600/600",
+      "https://picsum.photos/seed/india234/600/600",
+      "https://picsum.photos/seed/india235/600/600"
+    ],
+    "caption": "Blue City feels 💙",
+    "likes": 30561,
+    "comments": 712,
+    "time": "2h"
+  },
+  {
+    "id": 46,
+    "username": "riya_mehta",
+    "verified": false,
+    "location": "Ahmedabad, Gujarat",
+    "profileImage": "https://randomuser.me/api/portraits/women/56.jpg",
+    "images": [
+      "https://picsum.photos/seed/india236/600/600",
+      "https://picsum.photos/seed/india237/600/600",
+      "https://picsum.photos/seed/india238/600/600"
+    ],
+    "caption": "Weekend vibes 🌸",
+    "likes": 15278,
+    "comments": 295,
+    "time": "4h"
+  },
+  {
+    "id": 47,
+    "username": "karan_thakur",
+    "verified": true,
+    "location": "Shimla, Himachal Pradesh",
+    "profileImage": "https://randomuser.me/api/portraits/men/57.jpg",
+    "images": [
+      "https://picsum.photos/seed/india239/600/600",
+      "https://picsum.photos/seed/india240/600/600",
+      "https://picsum.photos/seed/india241/600/600"
+    ],
+    "caption": "Mountain therapy 🏔️",
+    "likes": 26441,
+    "comments": 538,
+    "time": "6h"
+  },
+  {
+    "id": 48,
+    "username": "muskan_gupta",
+    "verified": false,
+    "location": "Kanpur, Uttar Pradesh",
+    "profileImage": "https://randomuser.me/api/portraits/women/58.jpg",
+    "images": [
+      "https://picsum.photos/seed/india242/600/600",
+      "https://picsum.photos/seed/india243/600/600",
+      "https://picsum.photos/seed/india244/600/600"
+    ],
+    "caption": "Keep smiling 😊",
+    "likes": 10245,
+    "comments": 164,
+    "time": "9h"
+  },
+  {
+    "id": 49,
+    "username": "harsh_patel",
+    "verified": true,
+    "location": "Surat, Gujarat",
+    "profileImage": "https://randomuser.me/api/portraits/men/59.jpg",
+    "images": [
+      "https://picsum.photos/seed/india245/600/600",
+      "https://picsum.photos/seed/india246/600/600",
+      "https://picsum.photos/seed/india247/600/600"
+    ],
+    "caption": "Dream • Believe • Achieve 🚀",
+    "likes": 23984,
+    "comments": 503,
+    "time": "1h"
+  },
+  {
+    "id": 50,
+    "username": "neha_singh",
+    "verified": false,
+    "location": "Bhopal, Madhya Pradesh",
+    "profileImage": "https://randomuser.me/api/portraits/women/60.jpg",
+    "images": [
+      "https://picsum.photos/seed/india248/600/600",
+      "https://picsum.photos/seed/india249/600/600",
+      "https://picsum.photos/seed/india250/600/600"
+    ],
+    "caption": "Nature lover 🌿",
+    "likes": 12861,
+    "comments": 216,
+    "time": "7h"
+  },
+  {
+    "id": 51,
+    "username": "aditya_verma",
+    "verified": true,
+    "location": "Pune, Maharashtra",
+    "profileImage": "https://randomuser.me/api/portraits/men/61.jpg",
+    "images": [
+      "https://picsum.photos/seed/india251/600/600",
+      "https://picsum.photos/seed/india252/600/600",
+      "https://picsum.photos/seed/india253/600/600"
+    ],
+    "caption": "Code. Sleep. Repeat. 💻",
+    "likes": 33752,
+    "comments": 845,
+    "time": "2h"
+  },
+  {
+    "id": 52,
+    "username": "payal_meena",
+    "verified": false,
+    "location": "Ajmer, Rajasthan",
+    "profileImage": "https://randomuser.me/api/portraits/women/62.jpg",
+    "images": [
+      "https://picsum.photos/seed/india254/600/600",
+      "https://picsum.photos/seed/india255/600/600",
+      "https://picsum.photos/seed/india256/600/600"
+    ],
+    "caption": "Traditional look ❤️",
+    "likes": 16582,
+    "comments": 322,
+    "time": "3h"
+  },
+  {
+    "id": 53,
+    "username": "rahul_joshi",
+    "verified": true,
+    "location": "Indore, Madhya Pradesh",
+    "profileImage": "https://randomuser.me/api/portraits/men/63.jpg",
+    "images": [
+      "https://picsum.photos/seed/india257/600/600",
+      "https://picsum.photos/seed/india258/600/600",
+      "https://picsum.photos/seed/india259/600/600"
+    ],
+    "caption": "Street food never disappoints 😋",
+    "likes": 21976,
+    "comments": 431,
+    "time": "4h"
+  },
+  {
+    "id": 54,
+    "username": "kajal_patel",
+    "verified": false,
+    "location": "Vadodara, Gujarat",
+    "profileImage": "https://randomuser.me/api/portraits/women/64.jpg",
+    "images": [
+      "https://picsum.photos/seed/india260/600/600",
+      "https://picsum.photos/seed/india261/600/600",
+      "https://picsum.photos/seed/india262/600/600"
+    ],
+    "caption": "Happiness is homemade 🏡",
+    "likes": 11453,
+    "comments": 201,
+    "time": "6h"
+  },
+  {
+    "id": 55,
+    "username": "mohit_saini",
+    "verified": true,
+    "location": "Bengaluru, Karnataka",
+    "profileImage": "https://randomuser.me/api/portraits/men/65.jpg",
+    "images": [
+      "https://picsum.photos/seed/india263/600/600",
+      "https://picsum.photos/seed/india264/600/600",
+      "https://picsum.photos/seed/india265/600/600"
+    ],
+    "caption": "Startup hustle 🔥",
+    "likes": 35284,
+    "comments": 904,
+    "time": "1h"
+  },
+  {
+    "id": 56,
+    "username": "anjali_jain",
+    "verified": false,
+    "location": "Kolkata, West Bengal",
+    "profileImage": "https://randomuser.me/api/portraits/women/66.jpg",
+    "images": [
+      "https://picsum.photos/seed/india266/600/600",
+      "https://picsum.photos/seed/india267/600/600",
+      "https://picsum.photos/seed/india268/600/600"
+    ],
+    "caption": "City lights 🌃",
+    "likes": 13784,
+    "comments": 245,
+    "time": "8h"
+  },
+  {
+    "id": 57,
+    "username": "deepak_chauhan",
+    "verified": true,
+    "location": "Udaipur, Rajasthan",
+    "profileImage": "https://randomuser.me/api/portraits/men/67.jpg",
+    "images": [
+      "https://picsum.photos/seed/india269/600/600",
+      "https://picsum.photos/seed/india270/600/600",
+      "https://picsum.photos/seed/india271/600/600"
+    ],
+    "caption": "Lake City ❤️",
+    "likes": 25142,
+    "comments": 521,
+    "time": "5h"
+  },
+  {
+    "id": 58,
+    "username": "sakshi_verma",
+    "verified": false,
+    "location": "Hyderabad, Telangana",
+    "profileImage": "https://randomuser.me/api/portraits/women/68.jpg",
+    "images": [
+      "https://picsum.photos/seed/india272/600/600",
+      "https://picsum.photos/seed/india273/600/600",
+      "https://picsum.photos/seed/india274/600/600"
+    ],
+    "caption": "Simple & Happy 😊",
+    "likes": 12184,
+    "comments": 219,
+    "time": "10h"
+  },
+  {
+    "id": 59,
+    "username": "yash_gupta",
+    "verified": true,
+    "location": "Mumbai, Maharashtra",
+    "profileImage": "https://randomuser.me/api/portraits/men/69.jpg",
+    "images": [
+      "https://picsum.photos/seed/india275/600/600",
+      "https://picsum.photos/seed/india276/600/600",
+      "https://picsum.photos/seed/india277/600/600"
+    ],
+    "caption": "Marine Drive nights 🌊",
+    "likes": 29764,
+    "comments": 668,
+    "time": "2h"
+  },
+  {
+    "id": 60,
+    "username": "shruti_sharma",
+    "verified": false,
+    "location": "Chennai, Tamil Nadu",
+    "profileImage": "https://randomuser.me/api/portraits/women/70.jpg",
+    "images": [
+      "https://picsum.photos/seed/india278/600/600",
+      "https://picsum.photos/seed/india279/600/600",
+      "https://picsum.photos/seed/india280/600/600"
+    ],
+    "caption": "Sunset is my favorite color 🌅",
+    "likes": 14672,
+    "comments": 287,
+    "time": "4h"
+  },
+  
+  {
+    "id": 61,
+    "username": "rohan_choudhary",
+    "verified": true,
+    "location": "Jaipur, Rajasthan",
+    "profileImage": "https://randomuser.me/api/portraits/men/71.jpg",
+    "images": [
+      "https://picsum.photos/seed/india281/600/600",
+      "https://picsum.photos/seed/india282/600/600",
+      "https://picsum.photos/seed/india283/600/600"
+    ],
+    "caption": "Morning vibes with chai ☕❤️",
+    "likes": 24861,
+    "comments": 512,
+    "time": "1h"
+  },
+  {
+    "id": 62,
+    "username": "priya_meena",
+    "verified": false,
+    "location": "Ajmer, Rajasthan",
+    "profileImage": "https://randomuser.me/api/portraits/women/72.jpg",
+    "images": [
+      "https://picsum.photos/seed/india284/600/600",
+      "https://picsum.photos/seed/india285/600/600",
+      "https://picsum.photos/seed/india286/600/600"
+    ],
+    "caption": "Simple life, happy life 🌸",
+    "likes": 13452,
+    "comments": 238,
+    "time": "5h"
+  },
+  {
+    "id": 63,
+    "username": "aman_jat",
+    "verified": true,
+    "location": "Jodhpur, Rajasthan",
+    "profileImage": "https://randomuser.me/api/portraits/men/73.jpg",
+    "images": [
+      "https://picsum.photos/seed/india287/600/600",
+      "https://picsum.photos/seed/india288/600/600",
+      "https://picsum.photos/seed/india289/600/600"
+    ],
+    "caption": "Blue City forever 💙",
+    "likes": 28764,
+    "comments": 648,
+    "time": "2h"
+  },
+  {
+    "id": 64,
+    "username": "riya_saxena",
+    "verified": false,
+    "location": "Delhi, India",
+    "profileImage": "https://randomuser.me/api/portraits/women/74.jpg",
+    "images": [
+      "https://picsum.photos/seed/india290/600/600",
+      "https://picsum.photos/seed/india291/600/600",
+      "https://picsum.photos/seed/india292/600/600"
+    ],
+    "caption": "Weekend shopping 🛍️",
+    "likes": 11980,
+    "comments": 203,
+    "time": "6h"
+  },
+  {
+    "id": 65,
+    "username": "vikram_singh",
+    "verified": true,
+    "location": "Mumbai, Maharashtra",
+    "profileImage": "https://randomuser.me/api/portraits/men/75.jpg",
+    "images": [
+      "https://picsum.photos/seed/india293/600/600",
+      "https://picsum.photos/seed/india294/600/600",
+      "https://picsum.photos/seed/india295/600/600"
+    ],
+    "caption": "Mumbai never sleeps 🌃",
+    "likes": 31567,
+    "comments": 743,
+    "time": "3h"
+  },
+  {
+    "id": 66,
+    "username": "khushi_joshi",
+    "verified": false,
+    "location": "Udaipur, Rajasthan",
+    "profileImage": "https://randomuser.me/api/portraits/women/76.jpg",
+    "images": [
+      "https://picsum.photos/seed/india296/600/600",
+      "https://picsum.photos/seed/india297/600/600",
+      "https://picsum.photos/seed/india298/600/600"
+    ],
+    "caption": "Lake view ❤️",
+    "likes": 14674,
+    "comments": 291,
+    "time": "8h"
+  },
+  {
+    "id": 67,
+    "username": "deepanshu_verma",
+    "verified": true,
+    "location": "Pune, Maharashtra",
+    "profileImage": "https://randomuser.me/api/portraits/men/77.jpg",
+    "images": [
+      "https://picsum.photos/seed/india299/600/600",
+      "https://picsum.photos/seed/india300/600/600",
+      "https://picsum.photos/seed/india301/600/600"
+    ],
+    "caption": "Coding all night 💻",
+    "likes": 35890,
+    "comments": 882,
+    "time": "1h"
+  },
+  {
+    "id": 68,
+    "username": "sakshi_arora",
+    "verified": false,
+    "location": "Chandigarh, India",
+    "profileImage": "https://randomuser.me/api/portraits/women/78.jpg",
+    "images": [
+      "https://picsum.photos/seed/india302/600/600",
+      "https://picsum.photos/seed/india303/600/600",
+      "https://picsum.photos/seed/india304/600/600"
+    ],
+    "caption": "Coffee date ☕💕",
+    "likes": 12345,
+    "comments": 224,
+    "time": "4h"
+  },
+  {
+    "id": 69,
+    "username": "harshit_gupta",
+    "verified": true,
+    "location": "Ahmedabad, Gujarat",
+    "profileImage": "https://randomuser.me/api/portraits/men/79.jpg",
+    "images": [
+      "https://picsum.photos/seed/india305/600/600",
+      "https://picsum.photos/seed/india306/600/600",
+      "https://picsum.photos/seed/india307/600/600"
+    ],
+    "caption": "Work hard, stay humble 🚀",
+    "likes": 27643,
+    "comments": 594,
+    "time": "2h"
+  },
+  {
+    "id": 70,
+    "username": "neha_patel",
+    "verified": false,
+    "location": "Surat, Gujarat",
+    "profileImage": "https://randomuser.me/api/portraits/women/80.jpg",
+    "images": [
+      "https://picsum.photos/seed/india308/600/600",
+      "https://picsum.photos/seed/india309/600/600",
+      "https://picsum.photos/seed/india310/600/600"
+    ],
+    "caption": "Ethnic vibes 💛",
+    "likes": 15890,
+    "comments": 314,
+    "time": "5h"
+  },
+  {
+    "id": 71,
+    "username": "rajat_saini",
+    "verified": true,
+    "location": "Indore, Madhya Pradesh",
+    "profileImage": "https://randomuser.me/api/portraits/men/81.jpg",
+    "images": [
+      "https://picsum.photos/seed/india311/600/600",
+      "https://picsum.photos/seed/india312/600/600",
+      "https://picsum.photos/seed/india313/600/600"
+    ],
+    "caption": "Foodie forever 🍕",
+    "likes": 23675,
+    "comments": 467,
+    "time": "7h"
+  },
+  {
+    "id": 72,
+    "username": "kajal_sharma",
+    "verified": false,
+    "location": "Bhopal, Madhya Pradesh",
+    "profileImage": "https://randomuser.me/api/portraits/women/82.jpg",
+    "images": [
+      "https://picsum.photos/seed/india314/600/600",
+      "https://picsum.photos/seed/india315/600/600",
+      "https://picsum.photos/seed/india316/600/600"
+    ],
+    "caption": "Golden hour ✨",
+    "likes": 11243,
+    "comments": 201,
+    "time": "9h"
+  },
+  {
+    "id": 73,
+    "username": "aditya_chauhan",
+    "verified": true,
+    "location": "Lucknow, Uttar Pradesh",
+    "profileImage": "https://randomuser.me/api/portraits/men/83.jpg",
+    "images": [
+      "https://picsum.photos/seed/india317/600/600",
+      "https://picsum.photos/seed/india318/600/600",
+      "https://picsum.photos/seed/india319/600/600"
+    ],
+    "caption": "Keep growing 🌱",
+    "likes": 29142,
+    "comments": 683,
+    "time": "2h"
+  },
+  {
+    "id": 74,
+    "username": "muskan_singh",
+    "verified": false,
+    "location": "Kanpur, Uttar Pradesh",
+    "profileImage": "https://randomuser.me/api/portraits/women/84.jpg",
+    "images": [
+      "https://picsum.photos/seed/india320/600/600",
+      "https://picsum.photos/seed/india321/600/600",
+      "https://picsum.photos/seed/india322/600/600"
+    ],
+    "caption": "Beautiful memories ❤️",
+    "likes": 13987,
+    "comments": 252,
+    "time": "6h"
+  },
+  {
+    "id": 75,
+    "username": "rohit_yadav",
+    "verified": true,
+    "location": "Hyderabad, Telangana",
+    "profileImage": "https://randomuser.me/api/portraits/men/85.jpg",
+    "images": [
+      "https://picsum.photos/seed/india323/600/600",
+      "https://picsum.photos/seed/india324/600/600",
+      "https://picsum.photos/seed/india325/600/600"
+    ],
+    "caption": "City lights & dreams 🌆",
+    "likes": 33210,
+    "comments": 815,
+    "time": "1h"
+  },
+  {
+    "id": 76,
+    "username": "anjali_gupta",
+    "verified": false,
+    "location": "Chennai, Tamil Nadu",
+    "profileImage": "https://randomuser.me/api/portraits/women/86.jpg",
+    "images": [
+      "https://picsum.photos/seed/india326/600/600",
+      "https://picsum.photos/seed/india327/600/600",
+      "https://picsum.photos/seed/india328/600/600"
+    ],
+    "caption": "Beach day 🌊",
+    "likes": 14754,
+    "comments": 286,
+    "time": "4h"
+  },
+  {
+    "id": 77,
+    "username": "mohit_meena",
+    "verified": true,
+    "location": "Bengaluru, Karnataka",
+    "profileImage": "https://randomuser.me/api/portraits/men/87.jpg",
+    "images": [
+      "https://picsum.photos/seed/india329/600/600",
+      "https://picsum.photos/seed/india330/600/600",
+      "https://picsum.photos/seed/india331/600/600"
+    ],
+    "caption": "Tech life ⚡",
+    "likes": 37210,
+    "comments": 946,
+    "time": "2h"
+  },
+  {
+    "id": 78,
+    "username": "shruti_verma",
+    "verified": false,
+    "location": "Kolkata, West Bengal",
+    "profileImage": "https://randomuser.me/api/portraits/women/88.jpg",
+    "images": [
+      "https://picsum.photos/seed/india332/600/600",
+      "https://picsum.photos/seed/india333/600/600",
+      "https://picsum.photos/seed/india334/600/600"
+    ],
+    "caption": "Life is beautiful 🌺",
+    "likes": 16438,
+    "comments": 338,
+    "time": "5h"
+  },
+  {
+    "id": 79,
+    "username": "yuvraj_patel",
+    "verified": true,
+    "location": "Varanasi, Uttar Pradesh",
+    "profileImage": "https://randomuser.me/api/portraits/men/89.jpg",
+    "images": [
+      "https://picsum.photos/seed/india335/600/600",
+      "https://picsum.photos/seed/india336/600/600",
+      "https://picsum.photos/seed/india337/600/600"
+    ],
+    "caption": "Har Har Mahadev 🕉️🙏",
+    "likes": 34895,
+    "comments": 902,
+    "time": "3h"
+  },
+  {
+    "id": 80,
+    "username": "isha_jain",
+    "verified": false,
+    "location": "Goa, India",
+    "profileImage": "https://randomuser.me/api/portraits/women/90.jpg",
+    "images": [
+      "https://picsum.photos/seed/india338/600/600",
+      "https://picsum.photos/seed/india339/600/600",
+      "https://picsum.photos/seed/india340/600/600"
+    ],
+    "caption": "Vacation mode ON 🏖️",
+    "likes": 18274,
+    "comments": 394,
+    "time": "8h"
+  },
+  
+  {
+    "id": 81,
+    "username": "ankur_meena",
+    "verified": true,
+    "location": "Jaipur, Rajasthan",
+    "profileImage": "https://randomuser.me/api/portraits/men/91.jpg",
+    "images": [
+      "https://picsum.photos/seed/india341/600/600",
+      "https://picsum.photos/seed/india342/600/600",
+      "https://picsum.photos/seed/india343/600/600"
+    ],
+    "caption": "Pink City mornings 🌅",
+    "likes": 32456,
+    "comments": 741,
+    "time": "1h"
+  },
+  {
+    "id": 82,
+    "username": "prerna_sharma",
+    "verified": false,
+    "location": "Udaipur, Rajasthan",
+    "profileImage": "https://randomuser.me/api/portraits/women/92.jpg",
+    "images": [
+      "https://picsum.photos/seed/india344/600/600",
+      "https://picsum.photos/seed/india345/600/600",
+      "https://picsum.photos/seed/india346/600/600"
+    ],
+    "caption": "Lake side peace 💙",
+    "likes": 14753,
+    "comments": 296,
+    "time": "4h"
+  },
+  {
+    "id": 83,
+    "username": "rahul_chahar",
+    "verified": true,
+    "location": "Delhi, India",
+    "profileImage": "https://randomuser.me/api/portraits/men/93.jpg",
+    "images": [
+      "https://picsum.photos/seed/india347/600/600",
+      "https://picsum.photos/seed/india348/600/600",
+      "https://picsum.photos/seed/india349/600/600"
+    ],
+    "caption": "Dream big, stay humble 🚀",
+    "likes": 28347,
+    "comments": 612,
+    "time": "2h"
+  },
+  {
+    "id": 84,
+    "username": "khushi_verma",
+    "verified": false,
+    "location": "Mumbai, Maharashtra",
+    "profileImage": "https://randomuser.me/api/portraits/women/94.jpg",
+    "images": [
+      "https://picsum.photos/seed/india350/600/600",
+      "https://picsum.photos/seed/india351/600/600",
+      "https://picsum.photos/seed/india352/600/600"
+    ],
+    "caption": "Marine Drive nights 🌊",
+    "likes": 16589,
+    "comments": 327,
+    "time": "6h"
+  },
+  {
+    "id": 85,
+    "username": "vikash_jat",
+    "verified": true,
+    "location": "Jodhpur, Rajasthan",
+    "profileImage": "https://randomuser.me/api/portraits/men/95.jpg",
+    "images": [
+      "https://picsum.photos/seed/india353/600/600",
+      "https://picsum.photos/seed/india354/600/600",
+      "https://picsum.photos/seed/india355/600/600"
+    ],
+    "caption": "Blue City feels 💙",
+    "likes": 29184,
+    "comments": 648,
+    "time": "3h"
+  },
+  {
+    "id": 86,
+    "username": "riya_meena",
+    "verified": false,
+    "location": "Ajmer, Rajasthan",
+    "profileImage": "https://randomuser.me/api/portraits/women/96.jpg",
+    "images": [
+      "https://picsum.photos/seed/india356/600/600",
+      "https://picsum.photos/seed/india357/600/600",
+      "https://picsum.photos/seed/india358/600/600"
+    ],
+    "caption": "Smile is the best makeup 😊",
+    "likes": 13672,
+    "comments": 241,
+    "time": "7h"
+  },
+  {
+    "id": 87,
+    "username": "aditya_singh",
+    "verified": true,
+    "location": "Pune, Maharashtra",
+    "profileImage": "https://randomuser.me/api/portraits/men/97.jpg",
+    "images": [
+      "https://picsum.photos/seed/india359/600/600",
+      "https://picsum.photos/seed/india360/600/600",
+      "https://picsum.photos/seed/india361/600/600"
+    ],
+    "caption": "Developer mode ON 💻",
+    "likes": 36782,
+    "comments": 958,
+    "time": "1h"
+  },
+  {
+    "id": 88,
+    "username": "sakshi_prajapat",
+    "verified": false,
+    "location": "Lucknow, Uttar Pradesh",
+    "profileImage": "https://randomuser.me/api/portraits/women/98.jpg",
+    "images": [
+      "https://picsum.photos/seed/india362/600/600",
+      "https://picsum.photos/seed/india363/600/600",
+      "https://picsum.photos/seed/india364/600/600"
+    ],
+    "caption": "Happy soul 🌸",
+    "likes": 12349,
+    "comments": 214,
+    "time": "8h"
+  },
+  {
+    "id": 89,
+    "username": "deepak_gupta",
+    "verified": true,
+    "location": "Ahmedabad, Gujarat",
+    "profileImage": "https://randomuser.me/api/portraits/men/99.jpg",
+    "images": [
+      "https://picsum.photos/seed/india365/600/600",
+      "https://picsum.photos/seed/india366/600/600",
+      "https://picsum.photos/seed/india367/600/600"
+    ],
+    "caption": "Business never sleeps 📈",
+    "likes": 31456,
+    "comments": 754,
+    "time": "2h"
+  },
+  {
+    "id": 90,
+    "username": "anjali_singh",
+    "verified": false,
+    "location": "Bhopal, Madhya Pradesh",
+    "profileImage": "https://randomuser.me/api/portraits/women/10.jpg",
+    "images": [
+      "https://picsum.photos/seed/india368/600/600",
+      "https://picsum.photos/seed/india369/600/600",
+      "https://picsum.photos/seed/india370/600/600"
+    ],
+    "caption": "Nature heals 🌿",
+    "likes": 15482,
+    "comments": 293,
+    "time": "5h"
+  },
+  {
+    "id": 91,
+    "username": "mohit_verma",
+    "verified": true,
+    "location": "Bengaluru, Karnataka",
+    "profileImage": "https://randomuser.me/api/portraits/men/11.jpg",
+    "images": [
+      "https://picsum.photos/seed/india371/600/600",
+      "https://picsum.photos/seed/india372/600/600",
+      "https://picsum.photos/seed/india373/600/600"
+    ],
+    "caption": "Tech + Coffee ☕💻",
+    "likes": 38456,
+    "comments": 1025,
+    "time": "1h"
+  },
+  {
+    "id": 92,
+    "username": "pooja_jain",
+    "verified": false,
+    "location": "Kolkata, West Bengal",
+    "profileImage": "https://randomuser.me/api/portraits/women/12.jpg",
+    "images": [
+      "https://picsum.photos/seed/india374/600/600",
+      "https://picsum.photos/seed/india375/600/600",
+      "https://picsum.photos/seed/india376/600/600"
+    ],
+    "caption": "Sweet memories ❤️",
+    "likes": 14832,
+    "comments": 268,
+    "time": "4h"
+  },
+  {
+    "id": 93,
+    "username": "karan_patel",
+    "verified": true,
+    "location": "Hyderabad, Telangana",
+    "profileImage": "https://randomuser.me/api/portraits/men/13.jpg",
+    "images": [
+      "https://picsum.photos/seed/india377/600/600",
+      "https://picsum.photos/seed/india378/600/600",
+      "https://picsum.photos/seed/india379/600/600"
+    ],
+    "caption": "Keep hustling 🔥",
+    "likes": 30247,
+    "comments": 693,
+    "time": "3h"
+  },
+  {
+    "id": 94,
+    "username": "muskan_sharma",
+    "verified": false,
+    "location": "Chennai, Tamil Nadu",
+    "profileImage": "https://randomuser.me/api/portraits/women/14.jpg",
+    "images": [
+      "https://picsum.photos/seed/india380/600/600",
+      "https://picsum.photos/seed/india381/600/600",
+      "https://picsum.photos/seed/india382/600/600"
+    ],
+    "caption": "Beach vibes 🌴",
+    "likes": 17439,
+    "comments": 341,
+    "time": "6h"
+  },
+  {
+    "id": 95,
+    "username": "harsh_saini",
+    "verified": true,
+    "location": "Indore, Madhya Pradesh",
+    "profileImage": "https://randomuser.me/api/portraits/men/15.jpg",
+    "images": [
+      "https://picsum.photos/seed/india383/600/600",
+      "https://picsum.photos/seed/india384/600/600",
+      "https://picsum.photos/seed/india385/600/600"
+    ],
+    "caption": "Food lover 😋",
+    "likes": 27391,
+    "comments": 587,
+    "time": "2h"
+  },
+  {
+    "id": 96,
+    "username": "shruti_mehta",
+    "verified": false,
+    "location": "Goa, India",
+    "profileImage": "https://randomuser.me/api/portraits/women/16.jpg",
+    "images": [
+      "https://picsum.photos/seed/india386/600/600",
+      "https://picsum.photos/seed/india387/600/600",
+      "https://picsum.photos/seed/india388/600/600"
+    ],
+    "caption": "Beach therapy 🏖️",
+    "likes": 18394,
+    "comments": 392,
+    "time": "9h"
+  },
+  {
+    "id": 97,
+    "username": "yash_choudhary",
+    "verified": true,
+    "location": "Chandigarh, India",
+    "profileImage": "https://randomuser.me/api/portraits/men/17.jpg",
+    "images": [
+      "https://picsum.photos/seed/india389/600/600",
+      "https://picsum.photos/seed/india390/600/600",
+      "https://picsum.photos/seed/india391/600/600"
+    ],
+    "caption": "Road trip 🚗",
+    "likes": 29875,
+    "comments": 645,
+    "time": "2h"
+  },
+  {
+    "id": 98,
+    "username": "payal_verma",
+    "verified": false,
+    "location": "Surat, Gujarat",
+    "profileImage": "https://randomuser.me/api/portraits/women/18.jpg",
+    "images": [
+      "https://picsum.photos/seed/india392/600/600",
+      "https://picsum.photos/seed/india393/600/600",
+      "https://picsum.photos/seed/india394/600/600"
+    ],
+    "caption": "Life is beautiful 🌼",
+    "likes": 16248,
+    "comments": 315,
+    "time": "7h"
+  },
+  {
+    "id": 99,
+    "username": "rajveer_singh",
+    "verified": true,
+    "location": "Varanasi, Uttar Pradesh",
+    "profileImage": "https://randomuser.me/api/portraits/men/19.jpg",
+    "images": [
+      "https://picsum.photos/seed/india395/600/600",
+      "https://picsum.photos/seed/india396/600/600",
+      "https://picsum.photos/seed/india397/600/600"
+    ],
+    "caption": "Har Har Mahadev 🙏🕉️",
+    "likes": 41872,
+    "comments": 1238,
+    "time": "1h"
+  },
+  {
+    "id": 100,
+    "username": "isha_gupta",
+    "verified": false,
+    "location": "Jaipur, Rajasthan",
+    "profileImage": "https://randomuser.me/api/portraits/women/20.jpg",
+    "images": [
+      "https://picsum.photos/seed/india398/600/600",
+      "https://picsum.photos/seed/india399/600/600",
+      "https://picsum.photos/seed/india400/600/600"
+    ],
+    "caption": "Ending the day with gratitude ❤️✨",
+    "likes": 19483,
+    "comments": 418,
+    "time": "5h"
+  }
+]
+
+

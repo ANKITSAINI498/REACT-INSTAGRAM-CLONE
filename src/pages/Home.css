@@ -1,0 +1,165 @@
+/* ===============================
+   HOME LAYOUT
+================================ */
+
+.home-layout{
+
+max-width:1260px;
+
+margin:0 auto;
+
+display:grid;
+
+grid-template-columns:245px minmax(470px,630px) 320px;
+
+column-gap:32px;
+
+padding:30px 24px 80px;
+
+align-items:start;
+
+}
+
+/* ===============================
+   LEFT SIDEBAR
+================================ */
+
+.left-sidebar{
+
+position:sticky;
+
+top:60px;
+
+height:calc(100vh - 60px);
+
+}
+
+/* ===============================
+   FEED
+================================ */
+
+.feed{
+
+width:100%;
+
+max-width:630px;
+
+margin:0 auto;
+
+display:flex;
+
+flex-direction:column;
+
+gap:24px;
+
+}
+
+/* ===============================
+   RIGHT SIDEBAR
+================================ */
+
+.right-sidebar{
+
+position:sticky;
+
+top:90px;
+
+height:fit-content;
+
+}
+
+/* ===============================
+   LARGE LAPTOP
+================================ */
+
+@media(max-width:1264px){
+
+.home-layout{
+
+grid-template-columns:78px minmax(470px,630px);
+
+justify-content:center;
+
+}
+
+.right-sidebar{
+
+display:none;
+
+}
+
+}
+
+/* ===============================
+   TABLET
+================================ */
+
+@media(max-width:992px){
+
+.home-layout{
+
+display:block;
+
+max-width:650px;
+
+padding:20px 15px 90px;
+
+}
+
+.left-sidebar{
+
+display:none;
+
+}
+
+.feed{
+
+max-width:100%;
+
+}
+
+}
+
+/* ===============================
+   MOBILE
+================================ */
+
+@media(max-width:768px){
+
+.home-layout{
+
+padding:12px 0 80px;
+
+}
+
+.feed{
+
+width:100%;
+
+max-width:100%;
+
+gap:16px;
+
+}
+
+}
+
+/* ===============================
+   SMALL MOBILE
+================================ */
+
+@media(max-width:480px){
+
+.home-layout{
+
+padding:0 0 75px;
+
+}
+
+.feed{
+
+gap:12px;
+
+}
+
+}

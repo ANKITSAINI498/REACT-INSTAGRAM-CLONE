@@ -1,0 +1,230 @@
+.profile-menu{
+
+position:absolute;
+
+top:68px;
+
+right:12px;
+
+width:270px;
+
+background:#fff;
+
+border-radius:14px;
+
+box-shadow:
+0 10px 35px rgba(0,0,0,.18);
+
+overflow:hidden;
+
+animation:menu .25s ease;
+
+z-index:99999;
+
+border:1px solid #dbdbdb;
+
+}
+
+@keyframes menu{
+
+from{
+
+opacity:0;
+
+transform:
+translateY(-10px)
+scale(.96);
+
+}
+
+to{
+
+opacity:1;
+
+transform:
+translateY(0)
+scale(1);
+
+}
+
+}
+
+/* Arrow */
+
+.menu-arrow{
+
+position:absolute;
+
+top:-8px;
+
+right:20px;
+
+width:16px;
+
+height:16px;
+
+background:white;
+
+border-left:1px solid #dbdbdb;
+
+border-top:1px solid #dbdbdb;
+
+transform:rotate(45deg);
+
+}
+
+/* Top */
+
+.profile-top{
+
+display:flex;
+
+align-items:center;
+
+gap:12px;
+
+padding:18px;
+
+}
+
+.profile-top img{
+
+width:55px;
+
+height:55px;
+
+border-radius:50%;
+
+object-fit:cover;
+
+}
+
+.profile-top h5{
+
+margin:0;
+
+display:flex;
+
+align-items:center;
+
+gap:5px;
+
+font-size:15px;
+
+font-weight:600;
+
+}
+
+.profile-top p{
+
+margin-top:3px;
+
+font-size:13px;
+
+color:#888;
+
+}
+
+.verified{
+
+color:#0095f6;
+
+font-size:18px;
+
+}
+
+/* Divider */
+
+.profile-menu hr{
+
+margin:0;
+
+border:none;
+
+border-top:1px solid #eee;
+
+}
+
+/* Menu */
+
+.profile-menu ul{
+
+padding:8px 0;
+
+margin:0;
+
+list-style:none;
+
+}
+
+.profile-menu li{
+
+display:flex;
+
+align-items:center;
+
+gap:15px;
+
+padding:14px 20px;
+
+cursor:pointer;
+
+transition:.25s;
+
+font-size:15px;
+
+}
+
+.profile-menu li:hover{
+
+background:#f5f5f5;
+
+}
+
+.profile-menu li svg{
+
+font-size:21px;
+
+}
+
+.logout{
+
+color:#ed4956;
+
+font-weight:600;
+
+}
+
+.logout:hover{
+
+background:#fff3f3;
+
+}
+
+/* Mobile */
+
+@media(max-width:768px){
+
+.profile-menu{
+
+width:230px;
+
+right:8px;
+
+}
+
+.profile-top{
+
+padding:15px;
+
+}
+
+.profile-top img{
+
+width:48px;
+
+height:48px;
+
+}
+
+}
